@@ -1,0 +1,33 @@
+[12/29 01:52:26] display all the hyper-parameters in args:
+[12/29 01:52:26] gpu: 0
+[12/29 01:52:26] gpu_num: 1
+[12/29 01:52:26] opt: sgd
+[12/29 01:52:26] lr: 0.1
+[12/29 01:52:26] gamma: 0.1
+[12/29 01:52:26] epoch: 400
+[12/29 01:52:26] stage: 3
+[12/29 01:52:26] weight_decay: 0.0005
+[12/29 01:52:26] seed: 42
+[12/29 01:52:26] val_epoch: 20
+[12/29 01:52:26] resnet: False
+[12/29 01:52:26] nesterov: True
+[12/29 01:52:26] pre: True
+[12/29 01:52:26] no_val: False
+[12/29 01:52:26] train_way: 20
+[12/29 01:52:26] test_way: 5
+[12/29 01:52:26] train_shot: 5
+[12/29 01:52:26] test_shot: [1, 5]
+[12/29 01:52:26] train_query_shot: 15
+[12/29 01:52:26] test_query_shot: 16
+[12/29 01:52:26] train_transform_type: 0
+[12/29 01:52:26] val_trial: 1000
+[12/29 01:52:26] detailed_name: False
+[12/29 01:52:26] model: MAGNET
+[12/29 01:52:26] dataset: CUB_fewshot_cropped
+[12/29 01:52:26] resume: False
+[12/29 01:52:26] resume_epoch: 0
+[12/29 01:52:26] disturb_num: 5
+[12/29 01:52:26] weight: 0.05
+[12/29 01:52:26] save_folder: MAGNET/Fine_grained/MAGNET/CUB_fewshot_cropped/Conv-4_5-shot
+[12/29 01:52:26] ------------------------
+[12/29 01:52:31] start training!
